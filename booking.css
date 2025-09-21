@@ -1,0 +1,15 @@
+body{
+    background-color:khaki;
+    text-align: center;
+    }
+.square{
+    width: 350px;
+    height: 650px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 600px;
+    font-size: 20px;
+    border-radius: 50px;
+    
+}
+
