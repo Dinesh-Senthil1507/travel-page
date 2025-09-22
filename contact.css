@@ -24,6 +24,7 @@ h3
 {
     background-color: black;
      font-style: italic;
+     display: flex;
     }
 .h1 {
     margin-top: 50px;
